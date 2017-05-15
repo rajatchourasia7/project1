@@ -1,3 +1,7 @@
 Learning git first sentence (notepad text.txt)
 git status
 git init
+git add text.txt
+git commit -m "Commit Message"
+git remote add origin https://github.com/rajatchourasia7/project1.git
+git push -u origin master
