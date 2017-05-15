@@ -1,0 +1,3 @@
+Learning git first sentence (notepad text.txt)
+git status
+git init
